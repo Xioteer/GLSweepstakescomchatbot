@@ -9,7 +9,7 @@ const chatbotConfig = {
             backgroundColor: "#1eeda2",
             right: 20,
             bottom: 20,
-            size: 480,
+            size: 48,
             dragAndDrop: false,
             iconColor: "black",
             autoWindowOpen: {
@@ -19,7 +19,7 @@ const chatbotConfig = {
             },
         },
         tooltip: {
-            showTooltip: true,
+            showTooltip: false,
             tooltipMessage: 'Hi There 👋!',
             tooltipBackgroundColor: 'black',
             tooltipTextColor: 'white',
