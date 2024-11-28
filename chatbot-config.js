@@ -9,7 +9,7 @@ const chatbotConfig = {
             backgroundColor: "#1eeda2",
             right: 20,
             bottom: 20,
-            size: 48,
+            size: 480,
             dragAndDrop: false,
             iconColor: "black",
             autoWindowOpen: {
