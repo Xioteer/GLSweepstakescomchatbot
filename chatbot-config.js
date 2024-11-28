@@ -7,9 +7,9 @@ const chatbotConfig = {
     theme: {
         button: {
             backgroundColor: "#1eeda2",
-            right: 60,
-            bottom: 60,
-            size: 48,
+            right: 20,
+            bottom: 20,
+            size: 480
             dragAndDrop: false,
             iconColor: "black",
             autoWindowOpen: {
