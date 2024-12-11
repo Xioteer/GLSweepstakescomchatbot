@@ -27,7 +27,7 @@ const chatbotConfig = {
         },
         chatWindow: {
             showTitle: true,
-            title: 'Sweepstakes Casino Chatbot',
+            title: 'Sweepstakes Casino AI',
             showAgentMessages: true,
             welcomeMessage: 'Hello! wave Ask me any Sweepstakes related question.',
             errorMessage: 'Whoops! Something went wrong! 😵 Please try again or refresh the chat.',
