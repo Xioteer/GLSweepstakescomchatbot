@@ -13,9 +13,9 @@ const chatbotConfig = {
             dragAndDrop: false,
             iconColor: "black",
             autoWindowOpen: {
-                autoOpen: false,
+                autoOpen: true,
                 openDelay: 0,
-                autoOpenOnMobile: false,
+                autoOpenOnMobile: true,
             },
         },
         tooltip: {
