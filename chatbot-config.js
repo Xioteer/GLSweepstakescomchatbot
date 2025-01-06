@@ -64,7 +64,12 @@ const chatbotConfig = {
             feedback: {
                 color: '#303235',
             },
-            footer: {}
+            footer: {
+                textColor: '#303235',
+                text: 'Powered by',
+                company: 'SweepstakesCasino.com',
+                companyLink: 'https://www.sweepstakescasino.com/',
+            }
         }
     }
 };
