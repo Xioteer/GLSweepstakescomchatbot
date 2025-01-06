@@ -64,12 +64,7 @@ const chatbotConfig = {
             feedback: {
                 color: '#303235',
             },
-            footer: {
-                textColor: '#303235',
-                text: 'Powered by',
-                company: 'Growthleads',
-                companyLink: 'https://www.growthleads.com/',
-            }
+            footer: {}
         }
     }
 };
